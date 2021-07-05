@@ -1,0 +1,64 @@
+#item {
+    font-size: 30px;
+    text-align:center;
+    padding-left: 150px;
+}
+#navbarNav {
+    text-align:right;
+    font-family:Verdana;
+
+}
+
+#intro {
+    font-family:Verdana;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#intro h1{
+    font-size: 80px;
+    color:white;
+}
+
+#intro h3{
+    font-size: 40px;
+    color:white;
+}
+
+#introback {
+    background-image:url(image/7.jpg);
+    height:650px;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+#menu img {
+    width:150px;
+    height:400px;
+}
+
+#menubar h1{
+    vertical-align: middle;
+    text-align:center;
+    font-size: 60px;
+    font-family:Verdana;
+    color:rgb(59, 27, 4);
+    
+}
+#menubar {
+    background-image:url(image/back.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+#box {
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+    width:300px;
+    height:300px;
+}
+
+#service img {
+    width:200px;
+    height:400px;
+
+}
